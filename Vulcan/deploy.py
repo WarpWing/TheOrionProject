@@ -3,7 +3,7 @@ import os
 import discord
 from discord.ext.commands import Bot
 
-token = ('Njc0NjY5MzQ0OTczNzgzMDUx.XlWcwA.hNKXgAucWiYEDvZljKIvVDNPcU0')
+token = ('TOKEN')
 GUILD = ('656861178454081546')
 
 client = discord.Client()
