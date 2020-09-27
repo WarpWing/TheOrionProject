@@ -1,2 +1,6 @@
 import os
-import requests 
+import sys
+import requests  
+from apfunc import *
+
+systemsupport()
