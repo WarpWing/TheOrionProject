@@ -1,11 +1,9 @@
 # Project Orion
+ [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 
-Project Orion is the name for many of my python programs
+Project Orion is the codename of this Github Repository. It holds many of my automations and scripts that are based in Python as well as log every problem regarding said scripts and how I am currently trying to overcome them.
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+Please look around and write a PR if you would like to contribute!
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
