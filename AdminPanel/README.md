@@ -1,4 +1,4 @@
-# AdminPnale
+# AdminPanel
  [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 
 The Admin Panel is a program using the following dependencies to conduct general monitoring and basic low level administrative tasks in Python.
@@ -6,7 +6,6 @@ The Admin Panel is a program using the following dependencies to conduct general
 ## Dependencies 
 - <a href="https://requests.readthedocs.io/en/master/">Requests</a>
 - <a href="https://github.com/prompt-toolkit/python-prompt-toolkit"> Prompt Toolkit
-- 
 
 Please look around and write a PR if you would like to contribute!
 
