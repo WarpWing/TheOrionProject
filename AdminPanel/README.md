@@ -4,8 +4,8 @@
 The Admin Panel is a program using the following dependencies to conduct general monitoring and basic low level administrative tasks in Python.
 
 ## Dependencies 
-- - <a href="https://requests.readthedocs.io/en/master/">Python Requests Library</a>
-- 
+- <a href="https://requests.readthedocs.io/en/master/">Requests</a>
+- <a href="https://github.com/prompt-toolkit/python-prompt-toolkit"> Prompt Toolkit
 - 
 
 Please look around and write a PR if you would like to contribute!
