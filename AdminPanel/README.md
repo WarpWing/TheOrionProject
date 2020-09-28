@@ -5,7 +5,8 @@ The Admin Panel is a program using the following dependencies to conduct general
 
 ## Dependencies 
 - <a href="https://requests.readthedocs.io/en/master/">Requests</a>
-- <a href="https://npyscreen.readthedocs.io/"> npyscreen
+- <a href="https://npyscreen.readthedocs.io/"> npyscreen</a>
+ 
 Please look around and write a PR if you would like to contribute!
 
 ## License
