@@ -1,2 +1,3 @@
 requests
-Django
+json
+npyscreen
