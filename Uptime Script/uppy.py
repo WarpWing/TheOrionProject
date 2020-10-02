@@ -2,6 +2,7 @@ import os
 import requests
 import json 
 
-link = "https://google.com"
+
+link = input("Please enter a link to get information on: ")
 r = requests.get(link)
-print("The response is {rcode} and I find it to be epic".format(rcode=r.status_code))
+print("The response is {rcode} and I find it to be quite interesting".format(rcode=r.status_code))
